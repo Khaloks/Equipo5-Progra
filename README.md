@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+Equipo 5: Dracograma
 
-You can use the [editor on GitHub](https://github.com/Khaloks/Equipo5-Progra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aquí recopilamos las respuestas de cada uno de las empresas investigadas y posteriormente, nuestras conclusiones como equipo.
 
 ### Markdown
 
